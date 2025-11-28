@@ -50,7 +50,7 @@
  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
 
-> ⚠️ Replace `YOUR_USERNAME` with your GitHub username
+
 
 ---
 
